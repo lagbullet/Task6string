@@ -1,0 +1,7 @@
+C:\Users\Alexander\source\repos\TextTransformerApp\TextTransformerApp\bin\Debug\TextTransformerApp.exe.config
+C:\Users\Alexander\source\repos\TextTransformerApp\TextTransformerApp\bin\Debug\TextTransformerApp.exe
+C:\Users\Alexander\source\repos\TextTransformerApp\TextTransformerApp\bin\Debug\TextTransformerApp.pdb
+C:\Users\Alexander\source\repos\TextTransformerApp\TextTransformerApp\obj\Debug\TextTransformerApp.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\TextTransformerApp\TextTransformerApp\obj\Debug\TextTransformerApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\TextTransformerApp\TextTransformerApp\obj\Debug\TextTransformerApp.exe
+C:\Users\Alexander\source\repos\TextTransformerApp\TextTransformerApp\obj\Debug\TextTransformerApp.pdb
